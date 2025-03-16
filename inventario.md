@@ -3,3 +3,4 @@
 
 [processori](processori.md)
 [schede madri](schede_madri.md)
+negozio di elettronica
