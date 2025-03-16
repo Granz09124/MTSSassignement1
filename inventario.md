@@ -1,7 +1,7 @@
 [2075512]
 [2082864]
 
-# negozio di elettronica
+# negozio di elettrinica
 
 [processori](processori.md)
 [schede madri](schede_madri.md)
@@ -12,4 +12,6 @@
 [schede madri](componenti/schede_madri.md)
 
 ## Periferiche
+
 [tastiere](periferiche/tastiere.md)
+[mouse](periferiche/mouse.md)
