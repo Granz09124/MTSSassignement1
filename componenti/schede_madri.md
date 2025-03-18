@@ -1,8 +1,8 @@
 [2075512]
 [2082864]
 
-# Tastiere
+# Schede madri
 
-- Logitech G Pro X
-- Logitech K120
-- Logitech MX Keys
+- ASUS ROG Strix Z790-E Gaming WiFi
+- MSI MAG B550 TOMAHAWK
+- ASRock B450M Steel Legend
